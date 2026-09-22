@@ -402,3 +402,5 @@ her4	NAD-dependent S-adenosylhomocysteine (SAH) hydrolase	400	her4.hmm
 her5	NAD-binding oxidoreductase	200	her5.hmm
 her6	B12-dependent radical S-adenosyl-l-methionine enzyme	400	her6.hmm
 her7	NAD-binding oxidoreductase	550	her7.hmm
+VCPO_nonselective	non-selective vanadium-dependent chloroperoxidase	1	VCPO_nonselective.hmm
+unconventional_FDH	unconventional flavin-dependent halogenase	1	VCPO_nonselective.hmm
