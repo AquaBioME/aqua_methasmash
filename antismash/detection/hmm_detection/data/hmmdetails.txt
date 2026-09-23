@@ -402,5 +402,16 @@ her4	NAD-dependent S-adenosylhomocysteine (SAH) hydrolase	400	her4.hmm
 her5	NAD-binding oxidoreductase	200	her5.hmm
 her6	B12-dependent radical S-adenosyl-l-methionine enzyme	400	her6.hmm
 her7	NAD-binding oxidoreductase	550	her7.hmm
+indole_alkaloid	NHFe-dependent indole alkaloid halogenase	1	NHFe_indole_alkaloid.hmm
+cut_nucleotide_halogenases	NHFe-dependent nucleotide halogenase	1	NHFe_nucleotide.hmm
+variant_A_small_amino_acids	NHFe-dependent amino acid halogenase	1	NHFe_small_amino_acids.hmm
+variant_B	NHFe-dependent variant B halogenase	1	NHFe_variant_B.hmm
+chlorinase	SAM-dependent chlorinase	1	SAM_chlorinase.hmm
+fluorinase	SAM-dependent chlorinase	1	SAM_fluorinase.hmm
+general_VHPO	Vanadium-dependent haloperoxidases	1	VHPO_general.hmm
+VBPO_VHPO	Vanadium-dependent bromoperoxidase	1	VHPO_VBPO.hmm
+specific_cut_vcpos_VHPO	selective vanadium-dependent chloroperoxidase	1	VHPO_VCPO_selective.hmm
 VCPO_nonselective	non-selective vanadium-dependent chloroperoxidase	1	VCPO_nonselective.hmm
-unconventional_FDH	unconventional flavin-dependent halogenase	1	VCPO_nonselective.hmm
+VHPO_VIPO	Vanadium-dependent iodoperoxidase	1	VHPO_VIPO.hmm
+all_conventional_FDH	conventional flavin-dependent halogenase	1	FDH_all_conventional.hmm
+unconventional_FDH	unconventional flavin-dependent halogenase	1	unconventional_FDH.hmm
